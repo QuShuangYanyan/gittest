@@ -1,0 +1,40 @@
+1.Dapper.NET——轻量ORM  
+
+https://www.cnblogs.com/yankliu-vip/p/4182892.html
+
+Dapper是一款轻量级ORM工具（Github）。如果你在小的项目中，使用Entity Framework、NHibernate 来处理大数据访问及关系映射，未免有点杀鸡用牛刀。你又觉得ORM省时省力，这时Dapper 将是你不二的选择。
+
+2.委托小结及Func用法
+
+https://www.cnblogs.com/newbies/p/delegate.html
+
+首先，委托是一种类型，由关键字delegate声明。确切的说，委托是一种可用于封装命名或者匿名方法的引用类型。  它类似于 C++ 中的函数指针，而且是类型安全和可靠的。
+ 
+3.JS实现数组排序
+
+https://www.cnblogs.com/real-me/p/7103375.html
+
+4.   5分钟掌握 JavaScript 实用窍门
+https://zhuanlan.zhihu.com/p/37493249?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+5.通过三个DEMO学会SignalR的三种实现方式
+
+https://www.cnblogs.com/zuowj/p/5674615.html
+
+ASP .NET SignalR 是一个ASP .NET 下的类库，可以在ASP .NET 的Web项目中实现实时通信（即：客户端（Web页面）和服务器端可以互相实时的通知消息及调用方法），SignalR有三种传输模式：LongLooping(长轮询)、WebSocket（HTML5的WEB套接字）、Forever Frame(隐藏框架的长请求连接)，可以在WEB客户端显式指定一种或几种，也可以采取默认（推荐），若采取默认，SignalR会根据浏览器的环境自动选择合适的传输方式。
+
+6.ASP.NET MVC中注册Global.asax的Application_Error事件处理全局异常
+
+https://www.cnblogs.com/yingger/p/5334098.html
+
+在ASP.NET MVC中，通过应用程序生命周期中的Application_Error事件可以捕获到网站引发的所有未处理异常。本文作为学习笔记，记录了使用Global.asax文件的Application_Error事件处理和捕获全局异常的详细步骤。
+
+7.asp.net MVC 过滤器使用案例：统一处理异常顺道精简代码
+
+https://www.cnblogs.com/weixing/p/6112309.html
+
+8.Asp.net SignalR 实现服务端消息推送到Web端
+
+https://www.cnblogs.com/wintersun/p/4148223.html
+
+ASP .NET SignalR是一个ASP .NET 下的类库，可以在ASP .NET 的Web项目中实现实时通信.  今天我们来实现服务端消息推送到Web端,   
