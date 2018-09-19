@@ -14,8 +14,6 @@ matchesSelector() [注意]一般地，使用matches()方法来替代matchesSelec
 
 　　 方法接收一个CSS选择符参数，如果调用元素与该选择符相匹配，返回true；否则返回false
   
-     由于兼容性问题，现在各个浏览器都只支持加前缀的方法。IE9+浏览器支持msMatchesSelector()方法，firefox支持mozMatchesSelector()方法，safari和chrome支持webkitMatchesSelector()方法。
-  
   非实时
         与getElementById()和getElementsByTagName()方法不同，querySelector()和querySelectorAll()方法得到的类数组对象是非动态实时的
   缺陷
